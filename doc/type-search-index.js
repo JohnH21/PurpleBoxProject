@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Item"},{"p":"<Unnamed>","l":"PurpleBox"},{"p":"<Unnamed>","l":"PurpleBoxAdminInterface"},{"p":"<Unnamed>","l":"PurpleBoxUI"},{"p":"<Unnamed>","l":"PurpleBoxUserInterface"}]
